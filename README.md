@@ -22,11 +22,11 @@
 
 
 ### EDA (Findings + Graphics) 
-![alt text](https://github.com/jcamer68/NBA_Exploratory/blob/master/Graphics/Players%20by%20Country%20(Outside%20US).png "Players by Country (Outside US)")
+![alt text](https://github.com/jcamer68/John_Portfolio/blob/master/NBA%20Exploratory%20/Graphics/Players%20by%20Country%20(Outside%20US).png "Players by Country (Outside US)")
 
 
-![alt text](https://github.com/jcamer68/NBA_Exploratory/blob/master/Graphics/Players%20by%20State%20(Within%20US).png "Players by State (Within US)")
+![alt text](https://github.com/jcamer68/John_Portfolio/blob/master/NBA%20Exploratory%20/Graphics/Players%20by%20State%20(Within%20US).png "Players by State (Within US)")
 
 
-![alt text](https://github.com/jcamer68/NBA_Exploratory/blob/master/Graphics/Players%20by%20US%20(Within%20US).png "Players by college (Within US)")
+![alt text](https://github.com/jcamer68/John_Portfolio/blob/master/NBA%20Exploratory%20/Graphics/Players%20by%20US%20(Within%20US).png "Players by college (Within US)")
 
