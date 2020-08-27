@@ -1,10 +1,18 @@
 # John_Portfolio
- Data Science Projects
  
 ## Project 1 - Housing Price Predictor: Project Overview 
- 
+
+- Determined housing prices in Australia based on various categorical and numerical data inputs
+- Created four regression models to predict the sale price of houses (Support Vector, Decision Tree, Random Forest, XGBoost)
+- Calculated and plotted respective Mean Absolute Errors (MAEs) for each model, with the XGBoost Regressor model achieving the lowest error
+
  
 ### EDA (Findings + Graphics) 
+![alt text](https://github.com/jcamer68/John_Portfolio/blob/master/Houses/Regressor1_MAE.png "MAE by Model")
+ 
+ 
+![alt text](https://github.com/jcamer68/John_Portfolio/blob/master/Houses/Regressor2_MAE.png "MAE by Model")
+
  
 ## Project 2 - NBA Exploratory Analysis: Project Overview
 
