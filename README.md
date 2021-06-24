@@ -30,3 +30,6 @@
 
 ![alt text](https://github.com/jcamer68/John_Portfolio/blob/master/NBA%20Exploratory%20/Graphics/Players%20by%20US%20(Within%20US).png "Players by college (Within US)")
 
+
+## Project 3 - Titanic Survival Predictor: Project Overview 
+Details coming soon..
